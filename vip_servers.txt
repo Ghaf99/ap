@@ -1,10 +1,10 @@
-=== SERVER: Germany VIP 1 (Ultra Low Ping) ===
+=== SERVER: Latvia (Ultra Low Ping) MOKHABERAT ===
 [Interface]
-PrivateKey = ...
-Address = ...
-DNS = ...
+PrivateKey = Y92lTkSQ2/qOuKr9gvQaqi5ILSHjQiAY8/vj1n656CQ=
+Address = 10.128.220.67/32, fd64:e20:68a3::dc43/128
+DNS = 10.99.0.20
 
 [Peer]
-PublicKey = ...
+PublicKey = QFbr19X11tqUZRerZgItb25FnBsNsd7NyJvAkWTRU1U=
 AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = ...
+Endpoint = lv.204vpn.net:51820
