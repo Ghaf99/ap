@@ -10,4 +10,4 @@ AllowedIPs = 0.0.0.0/0, ::/0
 Endpoint = lv.204vpn.net:51820
 
 === SERVER: Turkey Low-Ping (Melli/Mokhaberat) ===
-vless://82796ef8-5902-0051-a80d-f0dea5bab8f4@jsv-ir2.jsip1.ir:443?security=reality&encryption=none&pbk=fwS6bEyF28VsSapBZZ2vz6LJmVismH0NYupk6STFRWc&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision-udp443&sni=aparat.com&sid=f373df45a687eaff#%F0%9F%87%AE%F0%9F%87%B7%20IR2%20%3E%20%F0%9F%87%A6%F0%9F%87%B1%20%D8%A2%D9%84%D8%A8%D8%A7%D9%86%DB%8C%5B%DB%8C%D9%88%D8%AA%DB%8C%D9%88%D8%A8%20%D8%A8%D8%AF%D9%88%D9%86%20%D8%AA%D8%A8%D9%84%DB%8C%D8%BA%5D
+vless://50414e45-4c5f-5a45-5553-ae1038127147@portable.sminfo.ir:443?encryption=none&security=tls&sni=6lz35wefusks.2kz3rleluees.workers.dev&fp=unsafe&type=ws&host=6lz35wefusks.2kz3rleluees.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fae1038127147%2Floc-0#ZEUS%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20E3H77G20
