@@ -9,5 +9,5 @@ PublicKey = QFbr19X11tqUZRerZgItb25FnBsNsd7NyJvAkWTRU1U=
 AllowedIPs = 0.0.0.0/0, ::/0
 Endpoint = lv.204vpn.net:51820
 
-=== SERVER: Turkey Low-Ping (Melli/Mokhaberat) ===
+=== SERVER: de Low-Ping (Melli/Mokhaberat) ===
 vless://50414e45-4c5f-5a45-5553-ae1038127147@portable.sminfo.ir:443?encryption=none&security=tls&sni=6lz35wefusks.2kz3rleluees.workers.dev&fp=unsafe&type=ws&host=6lz35wefusks.2kz3rleluees.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fae1038127147%2Floc-0#ZEUS%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20E3H77G20
