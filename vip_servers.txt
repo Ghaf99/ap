@@ -1,1 +1,2 @@
-=== SERVER: albania  ===
+=== SERVER: TEST Germany  ===
+vless://50414e45-4c5f-5a45-5553-ae1038127147@162.120.94.92:443?encryption=none&security=tls&sni=6lz35wefusks.2kz3rleluees.workers.dev&fp=unsafe&type=ws&host=6lz35wefusks.2kz3rleluees.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fae1038127147%2Floc-0#%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20E3H77G20
