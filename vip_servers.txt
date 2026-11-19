@@ -1,2 +1,15 @@
 === SERVER: TEST Germany  ===
 vless://50414e45-4c5f-5a45-5553-ae1038127147@162.120.94.92:443?encryption=none&security=tls&sni=6lz35wefusks.2kz3rleluees.workers.dev&fp=unsafe&type=ws&host=6lz35wefusks.2kz3rleluees.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2Fae1038127147%2Floc-0#%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20E3H77G20
+
+=== SERVER: Az Game  ===
+[Interface]
+PrivateKey = MD+PkAgwysDmLH23wL2N3M3xPxWfBt8sEnpX0DryE3I=
+Address = 10.0.0.171/32
+DNS = 208.67.222.222, 208.67.220.220
+MTU = 1300
+
+[Peer]
+PublicKey = ozuCRIbZlLF7fgbgQs7FuGRUzKloyo4DHo3oiqYARyY=
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = real-az.northwestnorth.ir:2083
+PresharedKey = cuPgN0o8FeGvbV0KZ9mDol7leglYtMBKOqyJzLgvTNA=
